@@ -1,0 +1,1 @@
+.campaigns__paginate ul>li:not(:first-child):not(:last-child){display:none}@media (min-width:768px){.campaigns__paginate ul>li:not(:first-child):not(:last-child){display:inline-block}}
